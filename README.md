@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Martha
-- 👀 I’m interested in solving problems through automation 
-- 🌱 I’m currently an electromechanical engineering graduate
+- 👀 I’m interested in data science
+- 🌱 Electromechanical engineer
 - 📫 How to reach me - marham2015@gmal.com
 
 <!---
